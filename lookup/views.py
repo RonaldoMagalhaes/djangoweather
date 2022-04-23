@@ -1,3 +1,5 @@
+# This is my views.py
+
 from django.shortcuts import render
 
 
